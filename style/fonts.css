@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'open sans bold';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: 'open sans regular';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'roboto bold';
+    src: url(../fonts/Roboto-Bold.ttf);
+} 
+@font-face {
+    font-family: 'roboto regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+} 
+@font-face {
+    font-family: 'yellowtail-regular';
+    src: url(../fonts/Yellowtail-Regular.ttf);
+} 
